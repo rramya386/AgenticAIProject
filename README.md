@@ -14,3 +14,7 @@ short_description: Refined langgraphAgenticAI
 ### End To End Agentic AI Projects
 
 The project is in development
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2b5615791c1618a8b70513d3fcfc066e0604a165
