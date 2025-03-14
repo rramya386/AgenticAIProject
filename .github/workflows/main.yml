@@ -21,5 +21,6 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://rramya386::$HF_TOKEN@huggingface.co/spaces/rramya386/Agentic_AI_Project
+        #run: git push --force https://rramya386::$HF_TOKEN@huggingface.co/spaces/rramya386/Agentic_AI_Project
 #this runs github and connects github and hugging face and security key is created
+git remote set-url origin https://rramya386:$HF_TOKEN@huggingface.co/spaces/rramya386/Agentic_AI_Project
